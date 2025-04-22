@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.SteamUploadController",
+    "Method": "UploadFile",
+    "RelativePath": "api/SteamUpload/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

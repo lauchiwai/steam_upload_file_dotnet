@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\extensions\\printproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\extensions\\printproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\filters\\disableformvaluemodelbindingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\disableformvaluemodelbindingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\helpers\\multipartrequesthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\helpers\\multipartrequesthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\data\\common\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\common\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\data\\options\\fileuploadoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\options\\fileuploadoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\enums\\messageenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\enums\\messageenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\services\\steamuploadservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\steamuploadservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\helpers\\filestreaminghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\helpers\\filestreaminghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|c:\\users\\lauchiwai\\desktop\\filesteamupload\\dotnet_upload\\webapplication1\\controllers\\steamuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DDFB9E-997E-4754-A44A-43C818F5F0ED}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\steamuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Data\\Common\\ResultDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Common\\ResultDTO.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Data\\Common\\ResultDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Common\\ResultDTO.cs",
+              "ViewState": "AgIAABgAAAAAmpmZmZkzwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:45:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultipartRequestHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Helpers\\MultipartRequestHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Helpers\\MultipartRequestHelper.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Helpers\\MultipartRequestHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Helpers\\MultipartRequestHelper.cs",
+              "ViewState": "AgIAACQAAADAZmZmZmYkwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:43:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileStreamingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Helpers\\FileStreamingHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Helpers\\FileStreamingHelper.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Helpers\\FileStreamingHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Helpers\\FileStreamingHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:43:28.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisableFormValueModelBindingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Filters\\DisableFormValueModelBindingFilter.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\DisableFormValueModelBindingFilter.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Filters\\DisableFormValueModelBindingFilter.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\DisableFormValueModelBindingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:43:19.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintProperties.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Extensions\\PrintProperties.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Extensions\\PrintProperties.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Extensions\\PrintProperties.cs",
+              "RelativeToolTip": "WebApplication1\\Extensions\\PrintProperties.cs",
+              "ViewState": "AgIAAAAAAAAAmpmZmZk3wAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:43:12.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SteamUploadServices.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Services\\SteamUploadServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\SteamUploadServices.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Services\\SteamUploadServices.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\SteamUploadServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:44:38.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:45:02.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageEnum.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Enums\\MessageEnum.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Enums\\MessageEnum.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Enums\\MessageEnum.cs",
+              "RelativeToolTip": "WebApplication1\\Enums\\MessageEnum.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:43:07.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUploadOptions.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Data\\Options\\FileUploadOptions.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Options\\FileUploadOptions.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Data\\Options\\FileUploadOptions.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Options\\FileUploadOptions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:42:48.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SteamUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Controllers\\SteamUploadController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SteamUploadController.cs",
+              "ToolTip": "C:\\Users\\lauchiwai\\Desktop\\fileSteamUpload\\dotnet_upload\\WebApplication1\\Controllers\\SteamUploadController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SteamUploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:42:34.886Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
